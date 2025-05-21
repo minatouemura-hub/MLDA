@@ -1,0 +1,10 @@
+torch
+torchvison
+tqdm
+opencv-python
+mecab-python
+pandas
+pillow
+nltk
+matplotlib
+serket

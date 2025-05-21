@@ -1,0 +1,4 @@
+Flickr8k_Dataset/Images
+__pycache__/
+*.py[cod]
+MLDA_theta_plot.png
