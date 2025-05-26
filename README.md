@@ -1,4 +1,4 @@
-# マルチモーダルLDA（mLDA）スクラッチ実装
+# マルチモーダルLDA（MLDA）スクラッチ実装
 
 このリポジトリは、**画像特徴とテキストキャプションを統合的に扱う LDA の拡張モデル（Multimodal LDA: mLDA）**のスクラッチ実装を提供します。  
 学習には **Collapsed Gibbs Sampling** を採用しています。
